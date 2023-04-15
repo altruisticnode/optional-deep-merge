@@ -5,6 +5,7 @@
   "description": "Typescript deep-merge utility",
   "license": "MIT",
   "devDependencies": {
+    "@changesets/cli": "^2.26.1",
     "tsup": "^6.7.0",
     "typescript": "^5.0.4"
   }
