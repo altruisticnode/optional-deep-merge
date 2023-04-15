@@ -1,0 +1,11 @@
+{
+  "name": "optional-deep-merge",
+  "version": "0.0.0",
+  "author": "altruisticnode",
+  "description": "Typescript deep-merge utility",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^6.7.0",
+    "typescript": "^5.0.4"
+  }
+}
